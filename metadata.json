@@ -1,6 +1,6 @@
 {
   "name": "the_yorkshire_allen-nginx_ansible_plugins",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Chris Allen",
   "source": "https://github.com/the-yorkshire-allen/nginx_ansible_plugins.git",
   "summary": "Ships the nginxinc Ansible collection via Puppet pluginsync",

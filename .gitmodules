@@ -1,0 +1,3 @@
+[submodule "lib/puppet_x/ansible/ansible-collection-nginx"]
+	path = lib/puppet_x/ansible/ansible-collection-nginx
+	url = https://github.com/nginxinc/ansible-collection-nginx
